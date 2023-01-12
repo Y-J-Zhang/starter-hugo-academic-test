@@ -29,7 +29,7 @@ abstract: Lanthanum-doped sewage sludge-based activated carbon (AC-La), an
 draft: false
 featured: false
 image:
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S221334372100717X-ga1_lrg.jpg
+  filename: featured.jpg
   focal_point: ""
   preview_only: false
 date: 2023-01-12T07:40:42.708Z
