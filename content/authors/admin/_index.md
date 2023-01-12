@@ -55,6 +55,5 @@ email: ''
 highlight_name: true
 ---
 
-I studied Water Science and Engineering in Sichuan University as an undergraduate, and after graduation, I engaged in postgraduate studies in Tianjin University, while I changed my major to Computer Science and Technology.
-My current research focuses on domain generalization, medical image processing, and image segmentation.
+Welcome to my academic website. At present, I mainly study medical image segmentation and domain generalization. If you are interested in these topics, please contact me.
 {style="text-align: justify;"}
