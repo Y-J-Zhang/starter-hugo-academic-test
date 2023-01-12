@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Experience
+      title: Education Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,23 +24,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Undergraduate
+          company: Sichuan University
+          company_url: 'https://www.scu.edu.cn/'
           company_logo: scu
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Chengdu, Sichuan
+          date_start: '2018-09-01'
+          date_end: '2022-06-31'
+          description: Major in Water Science and Technology
        
         - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+          company: Tianjin University
+          company_url: 'https://www.tju.edu.cn/'
           company_logo: tju
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Tianjin
+          date_start: '2022-09-01'
+          date_end: 'present'
+          description: Major in Computer Science and Technology
     design:
       columns: '2'
   - block: collection
