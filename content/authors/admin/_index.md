@@ -30,19 +30,6 @@ interests:
   - Computer Vision
   - Medical Image Processing
 
-<!-- # Education to show in About widget
-education:
-  courses:
-    - course: Bachelor in Water Science and Technology
-      institution: Sichuan University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008 -->
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
