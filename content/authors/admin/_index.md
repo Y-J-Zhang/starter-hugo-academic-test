@@ -38,7 +38,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: https://mail.google.com
-    label: yjzhang0720@gmail.com
+    label: Gmail
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=N1acLfgAAAAJ&hl=zh-CN
