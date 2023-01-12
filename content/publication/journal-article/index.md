@@ -43,10 +43,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0048969721046647-ga1_lrg.jpg
+  filename: featured.jpg
 date: 2023-01-12T07:39:28.245Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
