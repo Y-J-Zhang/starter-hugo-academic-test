@@ -31,7 +31,7 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description:Taught electronic engineering and researched semiconductor physics.
+          description: Taught electronic engineering and researched semiconductor physics.
        
         - title: Professor of Semiconductor Physics
           company: University X
