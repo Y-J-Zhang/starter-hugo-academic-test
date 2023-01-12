@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education Experience
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -28,7 +28,7 @@ sections:
           company: Sichuan University
           company_url: ''
           company_logo: scu
-          location: Chengdu, Sichuan
+          location: Chengdu
           date_start: '2018-09-01'
           date_end: '2022-06-31'
           description: Major in Water Science and Technology
