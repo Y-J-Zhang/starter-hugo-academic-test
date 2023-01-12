@@ -55,5 +55,5 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my academic website. At present, I mainly study medical image segmentation and domain generalization. If you are interested in these topics, please contact me.
+Welcome to my academic website. At present, I mainly study medical image segmentation and domain generalization. If you are interested in these topics, welcom to contact me.
 {style="text-align: justify;"}
