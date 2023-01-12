@@ -39,7 +39,7 @@ sections:
           company_logo: tju
           location: Tianjin
           date_start: '2022-09-01'
-          date_end: 'Present'
+          date_end: '2025-06-01'
           description: Major in Computer Science and Technology
     design:
       columns: '2'
