@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Enhanced removal of polyethylene terephthalate microplastics through polyaluminum chloride coagulation with three typical coagulant aids"
 authors:
 - admin
 - Robert Ford
