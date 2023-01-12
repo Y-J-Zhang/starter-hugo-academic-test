@@ -26,7 +26,7 @@ sections:
       items:
         - title: Undergraduate
           company: Sichuan University
-          company_url: 'https://www.scu.edu.cn/'
+          company_url: ''
           company_logo: scu
           location: Chengdu, Sichuan
           date_start: '2018-09-01'
@@ -35,11 +35,11 @@ sections:
        
         - title: Professor of Semiconductor Physics
           company: Tianjin University
-          company_url: 'https://www.tju.edu.cn/'
+          company_url: ''
           company_logo: tju
           location: Tianjin
           date_start: '2022-09-01'
-          date_end: 'present'
+          date_end: '2025-06-31'
           description: Major in Computer Science and Technology
     design:
       columns: '2'
