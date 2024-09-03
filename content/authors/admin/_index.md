@@ -22,13 +22,15 @@ organizations:
     url: http://www.tju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision.
+bio: My research interests include computer vision, multi-modal large language model, and recommender system.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computer Vision
   - Medical Image Processing
+  - Recommender System
+  - Water Treatment
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,11 +51,11 @@ social:
     label: Github
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhangyj0720@163.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Welcome to my academic website. At present, I mainly study medical image segmentation and domain generalization. If you are interested in these topics, welcom to contact me.
+Welcome to my personal homepage, I focus on computer vision and multimodal large language model, and also have a high interest in recommender systems.
 {style="text-align: justify;"}
