@@ -28,7 +28,6 @@ bio: My research interests include computer vision, multi-modal large language m
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Medical Image Processing
   - Recommender System
   - Water Treatment
 
@@ -57,5 +56,5 @@ email: 'zhangyj0720@163.com'
 highlight_name: true
 ---
 
-Welcome to my personal homepage, I focus on computer vision and multimodal large language model, and also have a high interest in recommender systems.
+我硕士期间的研究方向主要为**深度学习泛化**，求职意向为：搜索/推荐/广告/多模态算法
 {style="text-align: justify;"}
